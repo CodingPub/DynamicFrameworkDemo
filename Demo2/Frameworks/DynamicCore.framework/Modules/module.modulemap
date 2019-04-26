@@ -1,0 +1,6 @@
+framework module DynamicCore {
+  umbrella header "DynamicCore.h"
+
+  export *
+  module * { export * }
+}

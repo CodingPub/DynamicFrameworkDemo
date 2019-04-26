@@ -1,0 +1,6 @@
+framework module DynamicImp {
+  umbrella header "DynamicImp.h"
+
+  export *
+  module * { export * }
+}

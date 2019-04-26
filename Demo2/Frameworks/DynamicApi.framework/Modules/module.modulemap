@@ -1,0 +1,6 @@
+framework module DynamicApi {
+  umbrella header "DynamicApi.h"
+
+  export *
+  module * { export * }
+}
